@@ -4,8 +4,8 @@ https://medium.com/superhighfives/an-almost-static-stack-6df0a2791319#.mqz71luk6
 
 Playing with the ideas from this article
 
-- [x] githubpages working perfectly!
-- [x] heroku working perfectly! https://almoststaticstack.herokuapp.com/
+- [ ] githubpages is not working with react router!
+- [x] heroku is working perfectly! https://almoststaticstack.herokuapp.com/
 
 
 SUPERB!
